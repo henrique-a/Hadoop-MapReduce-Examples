@@ -1,0 +1,7 @@
+Toronto,20 
+Whitby,25 
+Chicago,22 
+Rome,32 
+Toronto,4 
+Rome,33 
+Chicago,18
